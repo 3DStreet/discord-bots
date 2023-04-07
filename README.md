@@ -1,14 +1,9 @@
-# DND AI Art Bot
-A Discord bot that is compatible with Stable Diffusion's Dreamstudio. 
+# Experimental 3DStreet discord bots
 
-Brought to you by [Haze: Saltborne](https://haze-saltborne.com), a group building immersive online roleplaying experiences. Join our [Discord](https://discord.com/invite/5c2XtWQSUm) to learn more! 
-
-*Note there is nothing about this that limits the bot to D&D/fantasy art. Use it however you choose!*
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/hxAexO?referralCode=jwithing)
+Thanks to [invictus2010/dnd-ai-art-bot](https://github.com/invictus2010/dnd-ai-art-bot) for the inspiration. 
 
 ## Setup
-I'm hosting this bot on Railway. If you click the button to "Deploy on Railway" above, you'll just need two environmental variables:
+You need two environmental variables:
 * DISCORD_TOKEN to power your bot
 * STABLE_DIFFUSION_TOKEN to connect to your Dreamstudio account
 
